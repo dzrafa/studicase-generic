@@ -87,3 +87,4 @@ bun start
 
 This documentation provides a basic overview of the Generic TypeScript Next.js Application. For more detailed information, refer to the source code and the official documentation of the technologies used.
 "# studicase-generic" 
+"# studicase-generic" 
